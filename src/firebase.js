@@ -5,14 +5,14 @@ import  "firebase/auth";
 
 const config = {
   
-   apiKey: "AIzaSyCbDCskHLliSkz0ybdOaDR6wmTZDksxKTM",
+   apiKey: "",
     authDomain: "aga-khan-clone.firebaseapp.com",
-    databaseURL: "https://aga-khan-clone.firebaseio.com",
-    projectId: "aga-khan-clone",
-    storageBucket: "aga-khan-clone.appspot.com",
-    messagingSenderId: "24278591176",
-    appId: "1:24278591176:web:b942da98bf8e1ef03727fd",
-    measurementId: "G-NGJ512Y1MT"
+    databaseURL: "",
+    projectId: "",
+    storageBucket: "",
+    messagingSenderId: "",
+    appId: "",
+    measurementId: ""
   };
 
 
